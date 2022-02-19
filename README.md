@@ -1,10 +1,17 @@
 # Natural Language Processing
-Based on the course offered in Georgia Institute of Technology by Wei Xu
+#### Based on the course offered in Georgia Institute of Technology by Wei Xu
 
-# Project 0: Introductory Project
+## Table of Contents
+1. [Project 0: Logistic Regression](#project0)
+2. [Project 1: Feedforward Neural Bag-of-Words](#project1)
+3. [Project 2: ](#project2)
+4. [Project 3: ](#project3)
 
-# Project 1: Sentiment Analysis using Feedforward Neural Bag-of-Words
 
-# Project 2: 
+### Project 0: Logistic Regression <a name="project0"></a>
 
-# Project 3:
+### Project 1: Feedforward Neural Bag-of-Words <a name="project1"></a>
+
+### Project 2: 
+
+### Project 3:
