@@ -11,7 +11,12 @@
 ### Project 0: Logistic Regression <a name="project0"></a>
 
 ### Project 1: Feedforward Neural Bag-of-Words <a name="project1"></a>
-
+Pre-processing
+Word Embedding
+Building DataSet Class
+Training
+Validating
+Test
 ### Project 2: 
 
 ### Project 3:
